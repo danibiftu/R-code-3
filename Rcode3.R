@@ -1,4 +1,4 @@
-####################################################### R Code for Real Data Application of non-spatial latent model###################################################
+######R Code for Bayesian rank likelihood-based estimation: An application to low birth weight in Ethiopia##########################
 # Load necessary packages
 library("LaplacesDemon")
 library("geoR")
